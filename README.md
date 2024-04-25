@@ -1,4 +1,4 @@
-This is a simple website focus on Tailwindcss skills where dark and light mode is in practice
+This is a simple website focus on Tailwindcss skills where dark and light mode is in practice with a bit of javascript.
 
 commands:
 download the project then run the commands:
